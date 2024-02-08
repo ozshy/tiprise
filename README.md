@@ -1,5 +1,5 @@
 # tiprise
-R code for charts and simulations for an article entitled:
+R-code for charts and simulations for an article entitled:
 
 "Why Do Tipping Rates Keep Rising?"
 
