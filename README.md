@@ -8,8 +8,8 @@ By, Oz Shy
 -------------------
 
 The R-code "tiprise_2024_x_y.R" draws Figures 1 and 2 in the paper and conducts the simulations in Table 1. Follow the following 2 steps:
-First, run the entire R-code (from start to end) to ensure that all parameters are defined.
-Second, if you are using R-Studio, you can use bookmarks to access the particular Figure or Table that you wish to simulate. 
+(i) run the entire R-code (from start to end) to ensure that all parameters are defined.
+(ii) if you are using R-Studio, you can use bookmarks to access the particular Figure or Table that you wish to simulate. 
 
 All algebraic derivations for the above article can be found on "tiprise_2024_x_y.pdf" (which the reader can download). The reader can then scroll down to the desired derivation using the same section, subsection, and equation numbers correspoding to the paper itself.
 
