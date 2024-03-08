@@ -7,7 +7,7 @@ By, Oz Shy
 
 -------------------
 
-The R-code "tiprise_2024_x_y.R" draws Figures 1, 2, 3, 4, and 6 in the paper and compute the calibrations displayed, in Table 1. 
+The R-code "tiprise_2024_x_y.R" draws Figures 1, 2, 3, 4, and 6 in the paper and computes the calibrations displayed, in Table 1. 
 To use this code, use the following 2 steps:
 (i) Initially, run the entire R-code (from start to end) to ensure that all parameters are defined.
 (ii) Then, if you are using R-Studio, you can use bookmarks to access the particular Figure or Table that you wish to simulate. 
