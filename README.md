@@ -1,15 +1,16 @@
 # tiprise
 R-code for charts and simulations for an article entitled:
 
-"Why Do Tipping Rates Keep Rising?"
+"Rising Tipping Rates, Expanding Variety of Tipped Services, and Social Norms"
 
 By, Oz Shy
 
 -------------------
 
-The R-code "tiprise_2024_x_y.R" draws Figures 1 and 2 in the paper and conducts the simulations in Table 1. Follow the following 2 steps:
-(i) run the entire R-code (from start to end) to ensure that all parameters are defined.
-(ii) if you are using R-Studio, you can use bookmarks to access the particular Figure or Table that you wish to simulate. 
+The R-code "tiprise_2024_x_y.R" draws Figures 1, 2, 3, 4, and 6 in the paper and compute the calibrations displayed, in Table 1. 
+To use this code, use the following 2 steps:
+(i) Initially, run the entire R-code (from start to end) to ensure that all parameters are defined.
+(ii) Then, if you are using R-Studio, you can use bookmarks to access the particular Figure or Table that you wish to simulate. 
 
 All algebraic derivations for the above article can be found on "tiprise_2024_x_y.pdf" (which the reader can download). The reader can then scroll down to the desired derivation using the same section, subsection, and equation numbers correspoding to the paper itself.
 
